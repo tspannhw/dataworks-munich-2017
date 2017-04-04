@@ -20,6 +20,8 @@
 .pydevproject
 .scala_dependencies
 .settings
+/data/20news-bydate-train
+/data/20news-bydate-test
 /lib/
 R-unit-tests.log
 R/unit-tests.out
